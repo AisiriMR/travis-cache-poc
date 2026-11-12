@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "name": "White Leather Ankle Boots", "category": "boots", "color": "white", "price": 350 },
+  { "id": 2,  "name": "White Knee-High Boots",     "category": "boots", "color": "white", "price": 480 },
+  { "id": 3,  "name": "White Combat Boots",        "category": "boots", "color": "white", "price": 290 },
+  { "id": 4,  "name": "Cream Suede Boots",         "category": "boots", "color": "cream", "price": 390 },
+  { "id": 5,  "name": "Black Chelsea Boots",       "category": "boots", "color": "black", "price": 320 },
+  { "id": 6,  "name": "Black Over-the-Knee Boots", "category": "boots", "color": "black", "price": 560 },
+  { "id": 7,  "name": "Black Lace-Up Boots",       "category": "boots", "color": "black", "price": 410 },
+  { "id": 8,  "name": "Brown Leather Riding Boots","category": "boots", "color": "brown", "price": 520 },
+  { "id": 9,  "name": "Brown Suede Ankle Boots",   "category": "boots", "color": "brown", "price": 270 },
+  { "id": 10, "name": "Tan Western Boots",         "category": "boots", "color": "tan",   "price": 440 },
+  { "id": 11, "name": "Grey Platform Boots",       "category": "boots", "color": "grey",  "price": 360 },
+  { "id": 12, "name": "Red Patent Ankle Boots",    "category": "boots", "color": "red",   "price": 380 }
+]
